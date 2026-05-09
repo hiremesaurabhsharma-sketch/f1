@@ -1,0 +1,11 @@
+{
+  "name": "f1-marketing-landing-page",
+  "version": "1.0.0",
+  "description": "Original animated landing page for F1 Marketing.",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "python3 -m http.server 4173",
+    "build": "node scripts/build-check.js"
+  }
+}
